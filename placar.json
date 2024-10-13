@@ -1,3 +1,29 @@
 {
-    "score": "FLA 2 x 1 FLU"
+  "score": "FLA 1 x 0 FLU",
+  "stats": {
+    "posse": {
+      "time1": 43,
+      "time2": 57
+    },
+    "chutes": {
+      "time1": 5,
+      "time2": 8
+    },
+    "escanteios": {
+      "time1": 4,
+      "time2": 3
+    },
+    "desarmes": {
+      "time1": 12,
+      "time2": 10
+    },
+    "faltas": {
+      "time1": 11,
+      "time2": 13
+    },
+    "cartoes": {
+      "time1": 2,
+      "time2": 3
+    }
+  }
 }
