@@ -1,0 +1,158 @@
+{
+  "classification": [
+    [
+      {
+        "position": 1,
+        "team": "BAYE",
+        "points": 33
+      },
+      {
+        "position": 2,
+        "team": "FRAN",
+        "points": 27
+      },
+      {
+        "position": 3,
+        "team": "LEVE",
+        "points": 26
+      },
+      {
+        "position": 4,
+        "team": "LEIP",
+        "points": 24
+      },
+      {
+        "position": 5,
+        "team": "WOLF",
+        "points": 21
+      },
+      {
+        "position": 6,
+        "team": "DORT",
+        "points": 21
+      },
+      {
+        "position": 7,
+        "team": "FREI",
+        "points": 21
+      },
+      {
+        "position": 8,
+        "team": "STUT",
+        "points": 20
+      },
+      {
+        "position": 9,
+        "team": "MAIN",
+        "points": 19
+      },
+      {
+        "position": 10,
+        "team": "WERD",
+        "points": 19
+      }
+    ],
+    [
+      {
+        "position": 11,
+        "team": "GLAD",
+        "points": 18
+      },
+      {
+        "position": 12,
+        "team": "UNIO",
+        "points": 16
+      },
+      {
+        "position": 13,
+        "team": "AUGS",
+        "points": 16
+      },
+      {
+        "position": 14,
+        "team": "HOFF",
+        "points": 13
+      },
+      {
+        "position": 15,
+        "team": "STPL",
+        "points": 11
+      },
+      {
+        "position": 16,
+        "team": "HEID",
+        "points": 10
+      },
+      {
+        "position": 17,
+        "team": "KIEL",
+        "points": 5
+      },
+      {
+        "position": 18,
+        "team": "BOCH",
+        "points": 2
+      }
+    ]
+  ],
+  "results": [
+    [
+      {
+        "team1": "STUT",
+        "score1": 3,
+        "score2": 2,
+        "team2": "UNIO"
+      },
+      {
+        "team1": "BOCH",
+        "score1": 0,
+        "score2": 1,
+        "team2": "WERD"
+      },
+      {
+        "team1": "FRAN",
+        "score1": 2,
+        "score2": 2,
+        "team2": "AUGS"
+      },
+      {
+        "team1": "KIEL",
+        "score1": 0,
+        "score2": 2,
+        "team2": "LEIP"
+      },
+      {
+        "team1": "LEVE",
+        "score1": 2,
+        "score2": 1,
+        "team2": "STPL"
+      }
+    ],
+    [
+      {
+        "team1": "BAYE",
+        "score1": 4,
+        "score2": 2,
+        "team2": "HEID"
+      },
+      {
+        "team1": "GLAD",
+        "score1": 1,
+        "score2": 1,
+        "team2": "DORT"
+      },
+      {
+        "team1": "WOLF",
+        "score1": 4,
+        "score2": 3,
+        "team2": "MAIN"
+      },
+      {
+        "team1": "HOFF",
+        "score1": 1,
+        "score2": 1,
+        "team2": "FREI"
+      }
+    ]
+  ]
+}
