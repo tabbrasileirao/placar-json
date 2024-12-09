@@ -1,0 +1,44 @@
+{
+  "classification": [
+    [
+      { "position": 1, "team": "PAL", "points": 58 },
+      { "position": 2, "team": "BOT", "points": 56 },
+      { "position": 3, "team": "FLA", "points": 54 },
+      { "position": 4, "team": "FOR", "points": 52 },
+      { "position": 5, "team": "INT", "points": 50 },
+      { "position": 6, "team": "ATL", "points": 48 },
+      { "position": 7, "team": "SAO", "points": 46 },
+      { "position": 8, "team": "COR", "points": 44 },
+      { "position": 9, "team": "GRE", "points": 42 },
+      { "position": 10, "team": "FLU", "points": 40 }
+    ],
+    [
+      { "position": 11, "team": "GOI", "points": 38 },
+      { "position": 12, "team": "CUI", "points": 36 },
+      { "position": 13, "team": "CFC", "points": 34 },
+      { "position": 14, "team": "CRU", "points": 32 },
+      { "position": 15, "team": "BAH", "points": 30 },
+      { "position": 16, "team": "VIT", "points": 28 },
+      { "position": 17, "team": "CHA", "points": 26 },
+      { "position": 18, "team": "AVA", "points": 24 },
+      { "position": 19, "team": "SPT", "points": 22 },
+      { "position": 20, "team": "ABC", "points": 20 }
+    ]
+  ],
+  "results": [
+    [
+      { "team1": "FLA", "score1": 1, "score2": 0, "team2": "FLU" },
+      { "team1": "PAL", "score1": 2, "score2": 2, "team2": "BOT" },
+      { "team1": "INT", "score1": 0, "score2": 1, "team2": "FOR" },
+      { "team1": "ATL", "score1": 3, "score2": 0, "team2": "COR" },
+      { "team1": "GRE", "score1": 1, "score2": 1, "team2": "CUI" }
+    ],
+    [
+      { "team1": "GOI", "score1": 0, "score2": 0, "team2": "CRU" },
+      { "team1": "BAH", "score1": 2, "score2": 3, "team2": "VIT" },
+      { "team1": "CHA", "score1": 1, "score2": 2, "team2": "AVA" },
+      { "team1": "SPT", "score1": 0, "score2": 1, "team2": "ABC" },
+      { "team1": "FLU", "score1": 2, "score2": 2, "team2": "PAL" }
+    ]
+  ]
+}
