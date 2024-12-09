@@ -1,0 +1,174 @@
+{
+  "classification": [
+    [
+      {
+        "position": 1,
+        "team": "LIVE",
+        "points": 35
+      },
+      {
+        "position": 2,
+        "team": "CHEL",
+        "points": 31
+      },
+      {
+        "position": 3,
+        "team": "ARSE",
+        "points": 29
+      },
+      {
+        "position": 4,
+        "team": "MCIT",
+        "points": 27
+      },
+      {
+        "position": 5,
+        "team": "NOTT",
+        "points": 25
+      },
+      {
+        "position": 6,
+        "team": "AVIL",
+        "points": 25
+      },
+      {
+        "position": 7,
+        "team": "BRIG",
+        "points": 24
+      },
+      {
+        "position": 8,
+        "team": "BOUR",
+        "points": 24
+      },
+      {
+        "position": 9,
+        "team": "BREN",
+        "points": 23
+      },
+      {
+        "position": 10,
+        "team": "FULL",
+        "points": 23
+      }
+    ],
+    [
+      {
+        "position": 11,
+        "team": "TOTT",
+        "points": 20
+      },
+      {
+        "position": 12,
+        "team": "NEWC",
+        "points": 20
+      },
+      {
+        "position": 13,
+        "team": "MANU",
+        "points": 19
+      },
+      {
+        "position": 14,
+        "team": "WHAM",
+        "points": 15
+      },
+      {
+        "position": 15,
+        "team": "EVER",
+        "points": 14
+      },
+      {
+        "position": 16,
+        "team": "LEIC",
+        "points": 14
+      },
+      {
+        "position": 17,
+        "team": "CRYS",
+        "points": 13
+      },
+      {
+        "position": 18,
+        "team": "IPSW",
+        "points": 9
+      },
+      {
+        "position": 19,
+        "team": "WOLV",
+        "points": 9
+      },
+      {
+        "position": 20,
+        "team": "SOUT",
+        "points": 5
+      }
+    ]
+  ],
+  "results": [
+    [
+      {
+        "team1": "EVER",
+        "score1": "-",
+        "score2": "-",
+        "team2": "LIVE"
+      },
+      {
+        "team1": "AVIL",
+        "score1": 1,
+        "score2": 0,
+        "team2": "SOUT"
+      },
+      {
+        "team1": "BREN",
+        "score1": 4,
+        "score2": 2,
+        "team2": "NEWC"
+      },
+      {
+        "team1": "CRYS",
+        "score1": 2,
+        "score2": 2,
+        "team2": "MCIT"
+      },
+      {
+        "team1": "MANU",
+        "score1": 2,
+        "score2": 3,
+        "team2": "NOTT"
+      }
+    ],
+    [
+      {
+        "team1": "IPSW",
+        "score1": 1,
+        "score2": 2,
+        "team2": "BOUR"
+      },
+      {
+        "team1": "LEIC",
+        "score1": 2,
+        "score2": 2,
+        "team2": "BRIG"
+      },
+      {
+        "team1": "FULL",
+        "score1": 1,
+        "score2": 1,
+        "team2": "ARSE"
+      },
+      {
+        "team1": "TOTT",
+        "score1": 3,
+        "score2": 4,
+        "team2": "CHEL"
+      },
+      {
+        "team1": "WHAM",
+        "score1": "-",
+        "score2": "-",
+        "team2": "WOLV"
+      }
+    ]
+  ]
+}
